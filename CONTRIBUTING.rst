@@ -1,7 +1,7 @@
 Contributing
 ============
 
-Here are some guidelines for hacking on `endpoints-management-python`_.
+Here are some guidelines for contributing to `endpoints-management-python`_.
 
 -  Please **sign** one of the `Contributor License Agreements`_ below.
 -  `File an issue`_ to notify the maintainers about what you're working on.
